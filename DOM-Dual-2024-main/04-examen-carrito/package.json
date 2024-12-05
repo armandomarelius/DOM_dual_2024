@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "04-examen-carrito",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.10"
-  },
-  "dependencies": {
-    "chart.js": "^4.4.7"
+    "vite": "^6.0.1"
   }
 }

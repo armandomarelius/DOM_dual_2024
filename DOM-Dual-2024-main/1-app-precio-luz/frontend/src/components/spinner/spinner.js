@@ -1,9 +1,10 @@
 /**
  * Spinner con 3 estados : 
  * - Crear el Spinner
- * - Mostrar le Spinner
+ * - Mostrar el Spinner
  * - Ocultar el Spinner
  */
+import "./spinner.css";
 
 export const createSpinner = () => {
     // voy  a crear el spinner en el DOM 
@@ -16,7 +17,7 @@ export const createSpinner = () => {
 
 export const showSpinner = () => {
     // mostrar el spinner
-    const spinner = document.getElementsById("spinner");
+    const spinner = document.getElementById("spinner");
     spinner.classList.remove("hidden");
 }
 

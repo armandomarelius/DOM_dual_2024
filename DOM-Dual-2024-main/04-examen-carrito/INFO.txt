@@ -1,0 +1,14 @@
+Se pretende relizar una aplicación que ejemplifique un carrito de la compra. Disponemos de las siguientes opciones:
+a- Agregar productos (nombre, cantidad,precio)
+b- Editar productos (edito la cantidad)
+c- Eliminar productos 
+d- Actulizar el total del carrito dinámicamente
+e- Utilizar clases
+f- Utilizar funciones constructoras / funciones fábrica.
+
+Partimos de un div llamado app y todo se genera dinámicamente.
+
+
+Ampliación: Guardaremos en el localStorage nuestro carrito de la compra con los productos.
+
+abajo habrá un contador con la cantidad a pagar.
